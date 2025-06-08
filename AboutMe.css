@@ -1,0 +1,13 @@
+.AboutMe {
+   transform: scale(1);
+  background-color: 540075; 
+  color: red;
+  border: 1.5px solid #ff0000;
+}
+
+.AboutMe:hover {
+   transform: scale(1.10);
+  background-color: #cf58fd;
+  transition-duration: 0.4s;
+  color: red;
+}
